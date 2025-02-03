@@ -9,6 +9,14 @@ The [[مجتمع مسار-التعافي من الإباحية]] application col
 A. Personal information provided directly: (name , email ,Gender, age group and country) ,This information is used to provide app-specific health features, such as customizing the user experience.
 B. Routine information: IP address, timestamps, and referring pages ,The collection of this information is used for administration, maintenance and usage analysis purposes, and will not be used to identify users personally.
 
+##How Information is Used
+
+The information we collect is used for the following purposes:
+-Providing Services: To ensure the proper functioning of the application and deliver a personalized user experience.
+-Communicating with Users: To send notifications related to updates, support, and any other information regarding the use of the application.
+-Analyzing and Improving Services: To analyze application usage and enhance features to better meet user needs.
+-Administrative Purposes: Such as managing login records and analyzing visits to improve performance.
+
 ##Health Apps and Special Requirements
 
 [[مجتمع مسار-التعافي من الإباحية]] provides health-related features; however, it does not collect any sensitive health data beyond the information mentioned above . We comply with all relevant policies for health apps as outlined in Google Play policies, including privacy requirements and clear disclosure regarding data usage.
